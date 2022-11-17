@@ -1,3 +1,5 @@
 b.txt made by Bhiagyashree
-hello
+hell
+good
+o
 hiiii
